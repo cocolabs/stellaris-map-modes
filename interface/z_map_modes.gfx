@@ -1,0 +1,21 @@
+spriteTypes = {
+	spriteType = {
+		name = z_map_mode_economy
+		texturefile = "gfx/interface/icons/z_map_mode_economy.dds"
+		noOfFrames = 2
+	}
+}
+spriteTypes = {
+	spriteType = {
+		name = z_map_mode_population
+		texturefile = "gfx/interface/icons/z_map_mode_population.dds"
+		noOfFrames = 2
+	}
+}
+spriteTypes = {
+	spriteType = {
+		name = z_map_mode_authority
+		texturefile = "gfx/interface/icons/z_map_mode_authority.dds"
+		noOfFrames = 2
+	}
+}
