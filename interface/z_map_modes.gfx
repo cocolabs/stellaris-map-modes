@@ -1,21 +1,42 @@
 spriteTypes = {
 	spriteType = {
-		name = z_map_mode_economy
+		name = GFX_z_map_mode_authority
+		texturefile = "gfx/interface/icons/z_map_mode_authority.dds"
+		noOfFrames = 2
+	}
+}
+spriteTypes = {
+	spriteType = {
+		name = GFX_z_map_mode_claims
+		texturefile = "gfx/interface/icons/z_map_mode_claims.dds"
+		noOfFrames = 2
+	}
+}
+spriteTypes = {
+	spriteType = {
+		name = GFX_z_map_mode_economy
 		texturefile = "gfx/interface/icons/z_map_mode_economy.dds"
 		noOfFrames = 2
 	}
 }
 spriteTypes = {
 	spriteType = {
-		name = z_map_mode_population
+		name = GFX_z_map_mode_fleet
+		texturefile = "gfx/interface/icons/z_map_mode_fleet.dds"
+		noOfFrames = 2
+	}
+}
+spriteTypes = {
+	spriteType = {
+		name = GFX_z_map_mode_population
 		texturefile = "gfx/interface/icons/z_map_mode_population.dds"
 		noOfFrames = 2
 	}
 }
 spriteTypes = {
 	spriteType = {
-		name = z_map_mode_authority
-		texturefile = "gfx/interface/icons/z_map_mode_authority.dds"
+		name = GFX_z_map_mode_science
+		texturefile = "gfx/interface/icons/z_map_mode_science.dds"
 		noOfFrames = 2
 	}
 }

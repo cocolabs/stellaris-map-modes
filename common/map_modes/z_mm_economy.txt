@@ -1,5 +1,5 @@
 z_map_mode_economy = {
-	icon = z_map_mode_economy
+	icon = GFX_z_map_mode_economy
 	enable_terra_incognita = yes
 	#shortcut = ""
 

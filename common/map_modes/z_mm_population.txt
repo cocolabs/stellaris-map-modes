@@ -1,5 +1,5 @@
 z_map_mode_population = {
-	icon = z_map_mode_population
+	icon = GFX_z_map_mode_population
 	enable_terra_incognita = yes
 	#shortcut = ""
 
